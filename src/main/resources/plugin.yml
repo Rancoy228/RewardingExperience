@@ -1,0 +1,13 @@
+name: RewardingExperience
+version: '1.0'
+main: ru.rncyplugin.rewardexp.RewardingExperience
+api-version: '1.20'
+authors: [Rancoy]
+description: Get regular reward to experience
+website: rancoy.ru
+commands:
+  rwexpad:
+    description: "Выдать опыт сразу"
+    usage: "/rwexpad"
+    aliases: [rewardexp]
+    permission: "rewardingexperience.use"

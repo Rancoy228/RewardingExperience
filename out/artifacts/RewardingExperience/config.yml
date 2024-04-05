@@ -1,0 +1,8 @@
+#количество опыта
+expAmount: 90
+#таймер афк (в секундах)
+afkTimeInSeconds: 300
+#включение команды
+commandEnabled: true
+#интервал выдачи опыта (в секундах)
+rewardIntervalInSeconds: 600
